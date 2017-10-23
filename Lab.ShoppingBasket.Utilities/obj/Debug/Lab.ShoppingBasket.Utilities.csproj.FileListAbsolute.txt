@@ -1,0 +1,9 @@
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\bin\Debug\Lab.ShoppingBasket.Utilities.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\bin\Debug\Lab.ShoppingBasket.Utilities.pdb
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\obj\Debug\Lab.ShoppingBasket.Utilities.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\obj\Debug\Lab.ShoppingBasket.Utilities.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\bin\Debug\Lab.ShoppingBasket.Utilities.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\bin\Debug\Lab.ShoppingBasket.Utilities.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\obj\Debug\Lab.ShoppingBasket.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\obj\Debug\Lab.ShoppingBasket.Utilities.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Utilities\obj\Debug\Lab.ShoppingBasket.Utilities.pdb

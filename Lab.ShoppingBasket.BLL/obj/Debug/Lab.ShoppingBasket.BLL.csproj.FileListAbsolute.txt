@@ -1,0 +1,9 @@
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.BLL.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.BLL.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.DAL.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.Utilities.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.DAL.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\bin\Debug\Lab.ShoppingBasket.Utilities.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\obj\Debug\Lab.ShoppingBasket.BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\obj\Debug\Lab.ShoppingBasket.BLL.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.BLL\obj\Debug\Lab.ShoppingBasket.BLL.pdb

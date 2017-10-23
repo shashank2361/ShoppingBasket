@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.Service.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.Service.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.BLL.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.DAL.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.Utilities.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.BLL.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.DAL.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\bin\Debug\Lab.ShoppingBasket.Utilities.pdb
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\obj\Debug\Lab.ShoppingBasket.Service.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\obj\Debug\Lab.ShoppingBasket.Service.dll
+C:\Users\USER\Downloads\Lab.ShoppingBasket1-master\Lab.ShoppingBasket1-master\Lab.ShoppingBasket\Lab.ShoppingBasket.Service\obj\Debug\Lab.ShoppingBasket.Service.pdb
